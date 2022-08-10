@@ -1,0 +1,19 @@
+{
+    "name": "shuleni/unimplemented",
+    "description": "NotImplementedException for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shuleni\\Unimplemented\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sixpeteunder",
+            "email": "plenjo15@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
